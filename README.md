@@ -1,6 +1,6 @@
 # DAD Quiz App
 
-## Link to Quis website
+## Link to app website
 https://mima6.github.io/quiz-site/
 
 ## Description
